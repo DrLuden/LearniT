@@ -65,10 +65,9 @@ margin-right:5%;
 text-transform: uppercase;
 text-align: center;
 margin-bottom:30px;
-size:30%;
 color:#07E89C;
 font-family:arial;
-
+font-size:40px;
 
 }
 
@@ -115,7 +114,7 @@ font-family:arial;
 	position:fixed;
 	width:50%;
 	height:100%;
-	background-color:#100c08;
+	background-color:#0F0F0F;
 }
 
 
@@ -128,7 +127,7 @@ font-family:arial;
 	width:30%;
 	height:100%;
 	left:0%;
-	background-color:#100c08;
+	background-color:#0F0F0F;
 }
 
 /* toggle button for sidebar */ 
